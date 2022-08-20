@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Third {
+public class Third {
+    public static void main(String[] args) {
+        System.out.println("asd");
+    }
 }
