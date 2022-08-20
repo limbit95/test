@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class test_second {
+
+public class test_second {
+    public static void main(String[] args) {
+        System.out.println("qwe");
+    }
+
 }
